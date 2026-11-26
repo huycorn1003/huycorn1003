@@ -20,5 +20,5 @@ I'm interested in Embedded Systems, Electronics, IoT, and Semiconductor Engineer
 Verilog HDL, FPGA Development, and ASIC Physical Design.
 
 ### 📫 Connect with me
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/huyngo1003/)
 - GitHub: [huycorn1003](https://github.com/huycorn1003)
